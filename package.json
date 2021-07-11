@@ -1,0 +1,22 @@
+{
+  "name": "fourwaychess",
+  "version": "1.0.0",
+  "description": "Play four way chess online at FourWayChess",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omatamix/fourwaychess.git"
+  },
+  "author": "Omatamix, TISHARP",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/omatamix/fourwaychess/issues"
+  },
+  "homepage": "https://github.com/omatamix/fourwaychess#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
